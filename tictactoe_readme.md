@@ -203,4 +203,4 @@ MIT License - feel free to use this code for learning, teaching, or building upo
 
 *Happy Gaming! 🎮*
 
-</div># tictactoe_py
+</div>
