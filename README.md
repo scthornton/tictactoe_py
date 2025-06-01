@@ -170,18 +170,6 @@ Play again? (y/n):
 
 ## 🛠️ Customization Ideas
 
-Want to make it your own? Try adding:
-
-- 🎨 **Colorized output** with `colorama`
-- 🎵 **Sound effects** with `pygame`
-- 🌐 **Web interface** with Flask
-- 📱 **GUI version** with tkinter
-- 📊 **Score tracking** across multiple games
-- 🎚️ **Difficulty levels** (Easy AI that makes occasional mistakes)
-- 🤖 **Different AI personalities** (Aggressive, Defensive, Random)
-- 🎯 **Larger boards** (4x4, 5x5 with 4-in-a-row to win)
-- 👥 **Network multiplayer** for online play
-- 📈 **Game statistics** and win/loss tracking
 
 ## 🤝 Contributing
 
